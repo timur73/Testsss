@@ -11,8 +11,5 @@ public class Test1 {
         System.out.println("Hi");
     }
 
-    @Test
-    public void test2() {
-        System.out.println("Hihhh");
-    }
+
 }
